@@ -1,5 +1,5 @@
 # pan-viral-reactivation
-CL + LP analyses of viral reactivation using single-cell sequencing
+analyses of viral reactivation using single-cell sequencing
 
 ## How to execute
 
